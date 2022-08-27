@@ -2,6 +2,6 @@ From openjdk:11
 
 # Maintainer 
 MAINTAINER "anita"
-COPY ./target/cap-demo-0.0.1-SNAPSHOT.jar /
+COPY ./target/UserRegistration1-0.0.1-SNAPSHOT.jar  /
 WORKDIR /
-CMD ["java", "-jar", "cap-demo-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "UserRegistration1-0.0.1-SNAPSHOT.jar"]
