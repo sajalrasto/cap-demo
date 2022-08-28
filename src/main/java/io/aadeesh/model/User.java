@@ -12,11 +12,15 @@ public class User
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer user_id;
-	
+		@Column(name = "user_fname", nullable = false)
 	private String user_fname;
+		@Column(name = "user_lname", nullable = false)
 	private String user_lname;
+		@Column(name = "user_email", nullable = false)
 	private String user_email;
+		@Column(name = "user_pass", nullable = false)
 	private String user_pass;
+		@Column(name = "user_mobile", nullable = false)
 	private String user_mobile;
 	
 	public Integer getUser_id() {
