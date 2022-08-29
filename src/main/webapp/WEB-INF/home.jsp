@@ -16,7 +16,7 @@ h3{
   text-decoration: underline
 }
 body {font-family: Arial, Helvetica, sans-serif;
-      background-image: url("https://img.freepik.com/premium-photo/abstract-multi-color-powder-explosion-white-background-freeze-motion-dust-particles-splash_36326-3453.jpg?w=1380");
+      background-image: url("https://www.itl.cat/pngfile/big/10-103858_abstract-light-wallpaper-abstract.jpg");
         
     }
 * {box-sizing: border-box;}
