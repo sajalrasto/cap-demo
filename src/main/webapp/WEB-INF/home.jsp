@@ -15,7 +15,10 @@ h3{
   text-align: center; 
   text-decoration: underline
 }
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+      background-image: url("https://img.freepik.com/premium-photo/abstract-multi-color-powder-explosion-white-background-freeze-motion-dust-particles-splash_36326-3453.jpg?w=1380");
+        
+    }
 * {box-sizing: border-box;}
 
 </style>  
