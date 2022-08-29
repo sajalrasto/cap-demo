@@ -16,7 +16,8 @@ h3{
   text-align: center; 
   text-decoration: underline
 }
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+	background-image: url("https://www.itl.cat/pngfile/big/10-103858_abstract-light-wallpaper-abstract.jpg");}
 * {box-sizing: border-box;}
 
 </style> 
