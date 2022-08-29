@@ -16,7 +16,8 @@ h3{
   text-align: center; 
   text-decoration: underline
 }
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://www.itl.cat/pngfile/big/203-2030356_colorful-dream-feather-abstract-design-wallpaper-background-hd.jpg");}
 * {box-sizing: border-box;}
 
 </style>  
